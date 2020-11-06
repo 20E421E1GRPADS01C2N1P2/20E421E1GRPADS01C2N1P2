@@ -16,11 +16,11 @@ Projeto Base
 https://github.com/public-apis/public-apis
 
 ## Check-list
-:black_square_button: Definir o grupo
+:ballot_box_with_check: Definir o grupo
 
-:black_square_button: Criar usuário GitHub
+:ballot_box_with_check: Criar usuário GitHub
 
-:black_square_button: Indicar usuário para add no grupo
+:ballot_box_with_check: Indicar usuário para add no grupo
 
 :black_square_button: Definir tema central
 
